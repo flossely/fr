@@ -2,44 +2,6 @@
 
 $diction['fr'] =
 [
-    'metric' =>
-    [
-        '' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Info',
-        ],
-        'bshp' =>
-        [
-            'order' => 'ASC',
-            'word' => 'Corps',
-        ],
-        'fshp' =>
-        [
-            'order' => 'ASC',
-            'word' => 'Pieds',
-        ],
-        'height' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Hauteur',
-        ],
-        'weight' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Poids',
-        ],
-        'size' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Taille',
-        ],
-        'arousal' =>
-        [
-            'order' => 'DESC',
-            'word' => 'Beauté',
-        ],
-    ],
     'digital' =>
     [
         '0',
