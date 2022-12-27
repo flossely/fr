@@ -15,6 +15,12 @@ $diction['fr'] =
         '8',
         '9'
     ],
+    'mode' =>
+    [
+        -1 => 'Gauche',
+        0 => 'Centre',
+        1 => 'Droite'
+    ],
     'alphabet' =>
     [
         'a',
@@ -60,4 +66,3 @@ $diction['fr'] =
         '51' => 'FONDS_INSUFFISANTS'
     ],
 ];
-
