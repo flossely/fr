@@ -21,6 +21,19 @@ $diction['fr'] =
         0 => 'Centre',
         1 => 'Droite'
     ],
+    'name' =>
+    [
+        0 => "Eurosphere",
+        1 => "Ville de Lumière",
+        2 => "Joie de Vivre",
+        3 => "Château de Versailles",
+        4 => "Garde Impériale",
+        5 => "Grand Tour",
+        6 => "Belle Époque",
+        7 => "La vie en rose",
+        8 => "Palais Garnier",
+        9 => "Erotosphere"
+    ],
     'alphabet' =>
     [
         'a',
