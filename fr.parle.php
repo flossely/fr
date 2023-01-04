@@ -130,6 +130,7 @@ $parle['fr'] =
     "term:era" => "Époque",
     "term:era:pl" => "Époques",
     "term:fallback" => "Substitution",
+    "term:monospace" => "Espace Mono",
     "term:file" => "Fichier",
     "term:filename" => "Nom de Fichier",
     "term:font" => "Police de Caractère",
