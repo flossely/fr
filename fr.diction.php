@@ -71,6 +71,12 @@ $diction['fr'] =
         '400' => 'ne peut pas atteindre',
         '500' => 'est mort'
     ],
+    'trade' =>
+    [
+        'quid' => 'QUID',
+        'pro' => 'PRO',
+        'quo' => 'QUO'
+    ],
     'transaction' =>
     [
         '00' => 'TRANSACTION_APPROUVÉE',
